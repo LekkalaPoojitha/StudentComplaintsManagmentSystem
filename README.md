@@ -22,11 +22,19 @@ A web-based platform that allows students to submit complaints online and track 
 
 ## 📌 How It Works
 
-1. Students log in to the website.
-2. They submit complaints via an online form.
-3. Complaints are stored in the MySQL database.
-4. Admins (or backend handlers) can update the complaint status.
-5. Students can log in later to view:
-   - List of their complaints
-   - Whether each is resolved or unresolved
+🧑‍🎓 Students Register & Login
+📝 Submit Complaints via a user-friendly form
+🗃️ Complaints are stored in a MySQL database
+🛠️ Admins can view all complaints and update status
+🔄 Students can track status: Pending or Resolved
 
+🌐 Live Demo
+https://studentcomplaintmanagementsystem.ct.ws/
+🔗 Click Here to Visit the Website
+
+![Screenshot 2025-07-01 211212](https://github.com/user-attachments/assets/0aa2e87b-bad0-4814-aff5-e81b65f64f23)
+Login Page..
+
+![Screenshot 2025-07-01 211234](https://github.com/user-attachments/assets/49b99406-dbe1-4d1b-a5fe-295671dbd625)
+
+Complaints Page
