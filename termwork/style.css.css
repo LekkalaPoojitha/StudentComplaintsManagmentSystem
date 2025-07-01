@@ -1,0 +1,3 @@
+body { font-family: Arial, sans-serif; }
+form { width: 300px; margin: auto; }
+input, textarea, select { width: 100%; margin: 5px 0; padding: 8px; }
