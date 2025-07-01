@@ -1,6 +1,4 @@
-# StudentComplaintsManagmentSystem
-A student complaint management system built with HTML, CSS, JavaScript, and PHP. Students can submit complaints, track their status (resolved/unresolved), and view updates through a login-based portal. Complaints are stored and managed in a backend database.
-# 📝 Student Complaint Management System
+
 
 A web-based platform that allows students to submit complaints online and track their resolution status. This system ensures effective communication between students and the administration by maintaining a record of complaints in a database, categorized as **resolved** or **unresolved**.
 
