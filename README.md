@@ -23,9 +23,13 @@ A web-based platform that allows students to submit complaints online and track 
 ## 📌 How It Works
 
 🧑‍🎓 Students Register & Login
+
 📝 Submit Complaints via a user-friendly form
+
 🗃️ Complaints are stored in a MySQL database
+
 🛠️ Admins can view all complaints and update status
+
 🔄 Students can track status: Pending or Resolved
 
 🌐 Live Demo
