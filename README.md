@@ -1,3 +1,4 @@
+# **🎓 Student Complaint Management System**
 
 
 A web-based platform that allows students to submit complaints online and track their resolution status. This system ensures effective communication between students and the administration by maintaining a record of complaints in a database, categorized as **resolved** or **unresolved**.
