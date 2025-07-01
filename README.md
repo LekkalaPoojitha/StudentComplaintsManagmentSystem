@@ -37,8 +37,9 @@ https://studentcomplaintmanagementsystem.ct.ws/
 🔗 Click Here to Visit the Website
 
 ![Screenshot 2025-07-01 211212](https://github.com/user-attachments/assets/0aa2e87b-bad0-4814-aff5-e81b65f64f23)
-Login Page..
+
+**Login Page**
 
 ![Screenshot 2025-07-01 211234](https://github.com/user-attachments/assets/49b99406-dbe1-4d1b-a5fe-295671dbd625)
 
-Complaints Page
+**Complaints Page**
